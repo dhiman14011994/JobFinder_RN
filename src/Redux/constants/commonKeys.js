@@ -1,0 +1,6 @@
+const commonKeys = {
+  BUTCHER_PRODUCT_DATA: 'BUTCHER_PRODUCT_DATA',
+  BUTCHER_PRODUCT_DATA_ERROR: 'BUTCHER_PRODUCT_DATA_ERROR',
+};
+
+export default commonKeys;

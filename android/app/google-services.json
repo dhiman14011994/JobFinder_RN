@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "764328256526",
+    "project_id": "axesseq-cc197",
+    "storage_bucket": "axesseq-cc197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764328256526:android:0dbae4a2e852b97412c85f",
+        "android_client_info": {
+          "package_name": "com.axesseq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764328256526-dmsbdie7nn338h4uhbaveo688f8vvnph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.axesseq",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "764328256526-rbl75562nkq0hcao62o6q66mmj1vq8j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM_HqJfB5XXRycobc4v2SiZGsGtFcnw0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764328256526-rbl75562nkq0hcao62o6q66mmj1vq8j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764328256526-grimr8h5ej9387gdrv9n3btsorkgnuds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geektech.axesseq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

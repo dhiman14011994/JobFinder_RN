@@ -1,0 +1,67 @@
+
+
+
+
+  @font-face {
+    font-family: "Gilroy-Regular";
+     src: url("../src/Resources/Fonts/Gilroy-Regular.eot") format("embedded-opentype"),
+          url("../src/Resources/Fonts/Gilroy-Regular.woff") format("woff"),
+          url("../src/Resources/Fonts/Gilroy-Regular.ttf") format("truetype"),
+          url("../src/Resources/Fonts/Gilroy-Regular.svg") format("svg");
+     font-weight: normal;
+     font-style: normal;
+   }
+   @font-face {
+    font-family: "Gilroy-Bold";
+     src: url("../src/Resources/Fonts/Gilroy-Bold.ttf") format("embedded-opentype"),
+          url("../src/Resources/Fonts/Gilroy-Bold.woff") format("woff"),
+          url("../src/Resources/Fonts/Gilroy-Bold.ttf") format("truetype"),
+          url("../src/Resources/Fonts/Gilroy-Bold.svg") format("svg");
+     font-weight: normal;
+     font-style: normal;
+   }
+   @font-face {
+    font-family: "Gilroy-SemiBold";
+     src: url("../src/Resources/Fonts/Gilroy-SemiBold.ttf") format("embedded-opentype"),
+          url("../src/Resources/Fonts/Gilroy-SemiBold.woff") format("woff"),
+          url("../src/Resources/Fonts/Gilroy-SemiBold.ttf") format("truetype"),
+          url("../src/Resources/Fonts/Gilroy-SemiBold.svg") format("svg");
+     font-weight: normal;
+     font-style: normal;
+   }
+   @font-face {
+    font-family: "Gilroy-Medium";
+     src: url("../src/Resources/Fonts/Gilroy-Medium.ttf") format("embedded-opentype"),
+          url("../src/Resources/Fonts/Gilroy-Medium.woff") format("woff"),
+          url("../src/Resources/Fonts/Gilroy-Medium.ttf") format("truetype"),
+          url("../src/Resources/Fonts/Gilroy-Medium.svg") format("svg");
+     font-weight: normal;
+     font-style: normal;
+   }
+
+body {
+  margin: 0;
+  font-family: "Gilroy-Regular";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Gilroy-Regular";
+}
+
+/* These styles make the body full-height */
+html,
+body {
+  height: 100%;
+}
+/* These styles disable body scrolling if you are using <ScrollView> */
+body {
+  overflow: hidden;
+}
+/* These styles make the root element full-height */
+#root {
+  display: flex;
+  height: 100%;
+}
+
